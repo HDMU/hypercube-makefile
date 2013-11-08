@@ -4,7 +4,7 @@ MACHINE ?= dm800
 BUILDDIR = build-${MACHINE}
 # for a list of some other repositories have
 # a look at http://git.opendreambox.org/
-GIT_URL = https://github.com/openpli-arm/openembedded.git
+GIT_URL = https://github.com/HDMU/hypercube-openembedded.git
 GIT_BRANCH = master
 BITBAKE_BRANCH = senbox
 TOOLCHAIN_NAME = gcc-4.5.2_glibc
