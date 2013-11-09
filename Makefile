@@ -9,7 +9,7 @@ GIT_BRANCH = master
 BITBAKE_BRANCH = senbox
 TOOLCHAIN_NAME = gcc-4.5.2_glibc
 TOOLCHAIN_FULL_NAME = gcc-4.5.2_glibc.tar.bz2
-TOOLCHAIN_URL = https://www.dropbox.com/s/8umac1s9wr8n2fz/$(TOOLCHAIN_FULL_NAME)
+TOOLCHAIN_URL = http://images.hdmedia-universe.com/anderes/$(TOOLCHAIN_FULL_NAME)
 # in case you want to send pull requests or generate patches
 #GIT_AUTHOR_NAME ?= Your Name
 #GIT_AUTHOR_EMAIL ?= you@example.com
